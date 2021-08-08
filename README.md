@@ -27,4 +27,4 @@ I'm a 28 year old Software Engineer with a freakish obsession with the web & I'v
 
 </p>
     
- 
+ <!--![Sathishka's github stats](https://github-readme-stats.vercel.app/api?username=sathishkapriyad&show_icons=true&theme=dark)-->
