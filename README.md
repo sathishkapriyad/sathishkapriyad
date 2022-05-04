@@ -7,16 +7,6 @@ I'm a 28 year old Software Engineer with a freakish obsession with the web & I'v
 - 🔭 I’m currently working on Web Development 💻 | Cloud ☁️
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning **
 - 💬 Talk to me about Anything!, I'm happy to help ✌️
-
-### Tech Stack
-
-<p align="left">
-	<img title="aws" src="https://spriyad.com/wp-content/uploads/2021/06/T20.png"  />
-	<img title="react" src="https://spriyad.com/wp-content/uploads/2021/06/react.png"  />
-	<img title="node" src="https://spriyad.com/wp-content/uploads/2021/06/T28.png" />
-	<img title="php" src="https://spriyad.com/wp-content/uploads/2021/06/T13.png"/>
-	<img title="mongo" src="https://spriyad.com/wp-content/uploads/2021/06/T8.png" />
-</p>
     
    Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
    
