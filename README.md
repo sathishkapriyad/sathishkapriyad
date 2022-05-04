@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sathishka Priyad,
 
-I'm a 28 year old Software Engineer with a freakish obsession with the web & I've been 🚀 pushing pixels for the web since 2014. Solving problems with innovative ideas is both my eternal passion and profession. Besides that, I hold several years of versatile experience as a Software Engineer.
+I'm a 30 year old Software Engineer with a freakish obsession with the web & I've been 🚀 pushing pixels for the web since 2014. Solving problems with innovative ideas is both my eternal passion and profession. Besides that, I hold several years of versatile experience as a Software Engineer.
 
 
 - ⚡ **Fun fact:** most developer loves coffee😅 But, I prefer tea ❤️
